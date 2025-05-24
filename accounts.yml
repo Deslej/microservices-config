@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts related local APIs"
   contactDetails:
     name: "Mikołaj Sarkowicz"
-    email: "mikolaj.sarkowicz@o2.pl"
+    email: "{cipher}0ecc8266c62f48e117bb72380ffb48d20a62cb4149be70797f18405f11c9e55aa40311adc3577ca5305a8e9a68732a37"
   onCallSupport:
     - (555) 555-5555
     - (555) 666-6666
