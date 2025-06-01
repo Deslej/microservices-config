@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Bank loans related prod APIs"
+  message: "Welcome to Bank loans related webhook APIs"
   contactDetails:
     name: "Mikołaj Sarkowicz"
     email: "mikolaj.sarkowicz@o2.pl"
